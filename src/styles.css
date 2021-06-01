@@ -1,0 +1,14 @@
+@import '~@angular/material/prebuilt-themes/pink-bluegrey.css';
+body {
+    padding: 10px;
+    background:rgb(250, 248, 248);
+    max-width: 700px;
+    margin: auto auto;
+}
+
+/*color options:
+deeppurple-amber.css
+indigo-pink.css
+pink-bluegrey.css
+purple-green.css
+*/
